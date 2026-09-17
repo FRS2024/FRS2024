@@ -25,7 +25,6 @@ My path runs through **OT/ICS environments** (steel‑plant process automation, 
 - 🛡️ Built a full IDS/IPS monitoring stack around Suricata for critical infrastructure supervision
 - 🚀 Ship AI‑augmented SaaS MVPs solo, end‑to‑end — idea to deployed product
 - 📊 Moving deeper into Data Engineering & ML — the direction I'm actively building toward
-- 🥋 Karate‑Do co‑founder & coach since 2019 — discipline carries over
 
 ---
 
@@ -47,14 +46,14 @@ This is exactly how **[EasyHall](https://github.com/FRS2024/event-bliss-hall)** 
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | Status |
+| Project | Description | Stack | Status |
 |---|---|---|---|
-| 🛡️ **[ICS Cyber Protector](https://github.com/FRS2024/the-protector)** | NIDS/NIPS dashboard wrapping Suricata for industrial network supervision — real‑time alerts, SCADA/Modbus rule sets, PDF reporting. Presented at the 4th ACF Fair, Annaba. | Django REST Framework · React/MUI · PostgreSQL · Suricata IDS/IPS · WebSocket · Elastic Stack | 🎓 Academic / Lab |
-| 🔐 **[Pentest SaaS Backend](https://github.com/FRS2024/pentest-saas-backend)** | FastAPI backend automating vulnerability scans via Nuclei, with GPT‑4 turning raw scan output into structured, client‑ready reports. | FastAPI · SQLAlchemy · PostgreSQL · Nuclei · OpenAI API · Docker | ✅ MVP shipped |
-| 🎪 **[EasyHall](https://github.com/FRS2024/event-bliss-hall)** | Full‑stack SaaS MVP for event‑space booking, built with Lovable under an architecture‑first workflow — from market study to deployed product. | React · TypeScript · Supabase · Tailwind CSS · shadcn/ui | ✅ [Live demo](https://easyhall-dz.vercel.app) |
-| 🧩 **[Jujutsu](https://github.com/FRS2024/Jujutsu)** | Developer‑first AppSec SaaS — SCA, secret detection, lightweight SAST/DAST and cloud posture checks, with a phased 0→3 roadmap toward a private beta. | TanStack Start · Convex · Clerk · Stripe | 🚧 In progress |
+| 🛡️ **[ICS Cyber Protector](https://github.com/FRS2024/the-protector)** | Industrial NIDS/NIPS dashboard with Suricata, real-time SCADA/Modbus alerts and reporting. Presented at ACF Fair, Annaba. | Django REST · React/MUI · PostgreSQL · Suricata · WebSocket · Elastic | 🎓 Academic / Lab |
+| 🔐 **[Pentest SaaS Backend](https://github.com/FRS2024/pentest-saas-backend)** | Automated vulnerability scanning with Nuclei and GPT-4 powered security reports. | FastAPI · PostgreSQL · Nuclei · OpenAI API · Docker | ✅ MVP |
+| 🎪 **[EasyHall](https://github.com/FRS2024/event-bliss-hall)** | Full-stack SaaS MVP for event-space booking, from product scoping to deployment. | React · TypeScript · Supabase · Tailwind · shadcn/ui | ✅ [Live demo](https://easyhall-dz.vercel.app) |
+| 🧩 **[Jujutsu](https://github.com/FRS2024/Jujutsu)** | Developer-first AppSec SaaS covering SCA, secrets, SAST/DAST and cloud security checks. | TanStack Start · Convex · Clerk · Stripe | 🚧 In progress |
 
-*All four are solo‑built, end‑to‑end — from product scoping to deployment.*
+*All four are solo-built end-to-end, from product scoping to deployment.*
 
 ---
 
@@ -94,19 +93,6 @@ This is exactly how **[EasyHall](https://github.com/FRS2024/event-bliss-hall)** 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FRS2024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRS2024&layout=compact&theme=tokyonight&hide_border=true" width="30%" alt="Top languages"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRS2024&theme=tokyonight&hide_border=true" width="65%" alt="Streak stats"/>
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 Data Engineering pipelines, ML fundamentals, and what it actually takes to industrialize AI systems for operational, industrial‑grade environments — the next layer on top of the automation and cybersecurity foundation.
@@ -119,12 +105,6 @@ Data Engineering pipelines, ML fundamentals, and what it actually takes to indus
 - 📜 **Cisco Junior Cybersecurity Analyst Career Path** — Cisco, 2025
 - 🤖 **Industrial Robotics — Mitsubishi & RT Toolbox Level 2** — SONELTECH, 2025
 - 💡 **Gen Z Hackathon — ERP Integration in Enterprise** — Club OPTIMIZE, Annaba
-
----
-
-## 🥋 Beyond the Code
-
-Co‑founder and coach at a Karate‑Do club since 2019 — years of teaching precision, discipline, and follow‑through that show up the same way in system design as they do on the mat.
 
 ---
 
