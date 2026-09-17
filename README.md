@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f766e&height=190&section=header&text=Fares%20Abdelbasset%20BOUDRA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20Engineer%20%E2%80%A2%20ICS%2FOT%20Cybersecurity%20%E2%80%A2%20AI-Orchestrated%20Builder&descAlignY=55&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f766e&height=190&section=header&text=Fares%20Abdelbasset%20BOUDRA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20Engineer%20%E2%80%A2%20ICS%2FOT%20Cybersecurity%20%E2%80%A2%20AI-Orchestrated%20Builder&descAlignY=55&descSize=17](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0f766e&height=190&section=header&text=Fares%20Abdelbasset%20BOUDRA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Automation%20Engineer%20%E2%80%94%20Data%2C%20AI%20and%20Digital%20Transformation&descAlignY=55&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=14B8A6&center=true&vCenter=true&width=640&lines=Architecture-First+Prompting;ICS%2FOT+Security+to+Data+%26+AI+Engineering;Turning+Natural+Language+into+Production-Grade+Systems" alt="Typing SVG" />
 
